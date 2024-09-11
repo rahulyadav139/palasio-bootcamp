@@ -1,5 +1,4 @@
 import { Box } from '@mui/material';
-import { TiHtml5 } from 'react-icons/ti';
 import { FaCss3Alt } from 'react-icons/fa';
 import { FaHtml5 } from 'react-icons/fa6';
 import { IoLogoJavascript } from 'react-icons/io';
