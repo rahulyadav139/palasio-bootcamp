@@ -1,0 +1,32 @@
+[
+  {
+    "id": "basics",
+    "title": "Master the Essentials",
+    "description": "Dive into the core trio of web development—HTML, CSS, and JavaScript. Build a solid foundation by mastering these fundamental technologies to create dynamic, visually appealing websites.",
+    "image": "/images/web-dev-basics.png"
+  },
+  {
+    "id": "framework",
+    "title": "Framework Frenzy",
+    "description": "Accelerate your development process by learning a popular JavaScript framework. Harness the power of tools like React, Vue, or Angular to streamline your workflows and build efficient, scalable applications.",
+    "image": "/images/javascript-frameworks.png"
+  },
+  {
+    "id": "documentation",
+    "title": "Code Savvy",
+    "description": "Enhance your coding prowess by reading documentation and integrating others’ code into your projects. This will help you understand best practices, explore new techniques, and improve your problem-solving skills.",
+    "image": "/images/documentation.png"
+  },
+  {
+    "id": "collaboration",
+    "title": "Collaboration Mastery",
+    "description": "Join forces with others in real-world scenarios using Git. Learn to manage version control, collaborate effectively, and contribute to team projects to simulate a production environment.",
+    "image": "/images/collaboration.png"
+  },
+  {
+    "id": "proof-of-work",
+    "title": "Showcase Your Skills",
+    "description": "Build a compelling portfolio to demonstrate your expertise. Create impressive projects that reflect your capabilities and attract potential employers or clients. Your proof of work is your ticket to success!",
+    "image": "/images/projects.png"
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "id": "frontend",
+    "title": "Frontend",
+    "description": "Learn the essentials of web development with HTML, CSS, and JavaScript, then advance your skills with React and GitHub. Perfect for building a strong foundation in frontend development.",
+    "isLive": true
+  },
+  {
+    "id": "advance-frontend",
+    "title": "Advance Frontend",
+    "description": "Build on the Frontend Mastery course by diving into TypeScript, Next.js, SSR, and React + Vite. Gain advanced skills and learn website optimization techniques to create high-performance web applications.",
+    "isLive": false
+  },
+  {
+    "id": "full-stack",
+    "title": "Full-stack",
+    "description": "Master the MERN stack (MongoDB, Express, React, Node.js) to become a versatile full-stack developer. This course covers everything from frontend to backend, equipping you with the skills to build complete web applications.",
+    "isLive": false
+  }
+]

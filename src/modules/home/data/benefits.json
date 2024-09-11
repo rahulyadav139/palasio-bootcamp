@@ -1,0 +1,26 @@
+[
+  {
+    "id": "offline",
+    "icon": "",
+    "title": "Offline Mode",
+    "description": "Get immediate help with your doubts through our offline support, ensuring you never miss a beat in your learning journey."
+  },
+  {
+    "id": "project",
+    "icon": "",
+    "title": "Project-Based Learning",
+    "description": "Engage in hands-on projects that build real-world skills and provide practical experience for effective learning."
+  },
+  {
+    "id": "mentorship",
+    "icon": "",
+    "title": "Expert Mentorship",
+    "description": "Stay current with industry trends and best practices through personalized guidance from experienced mentors."
+  },
+  {
+    "id": "pricing",
+    "icon": "",
+    "title": "Affordable Pricing",
+    "description": "Access top-quality education at a competitive rate, offering great value compared to other bootcamps."
+  }
+]

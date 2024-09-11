@@ -1,0 +1,17 @@
+[
+  {
+    "id": "faq_1",
+    "title": "Do I need any prior experience in programming to join this bootcamp?",
+    "text": "No prior experience is required to join our bootcamp. We start with the basics and gradually build up your skills. However, having some familiarity with basic programming concepts or web technologies can be helpful. Our comprehensive curriculum is designed to accommodate beginners while providing advanced content for those with some experience."
+  },
+  {
+    "id": "faq_2",
+    "title": "How is the bootcamp structured, and what is the time commitment?",
+    "text": "The bootcamp is structured into weekly modules, each focusing on different aspects of the MERN stack. The program typically spans 12 weeks with 10 hours of instruction per week. You'll participate in lectures, hands-on projects, and group work. Additionally, you'll have access to online resources and mentorship to support your learning."
+  },
+  {
+    "id": "faq_3",
+    "title": "What kind of support will I receive during the bootcamp?",
+    "text": "Throughout the bootcamp, you'll receive: Regular sessions with experienced mentors who can provide guidance and answer your questions, assistance with coding challenges and troubleshooting issues, Join a network of fellow students and alumni for peer support, networking, and collaboration and internship preparation module"
+  }
+]
