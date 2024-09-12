@@ -1,6 +1,6 @@
 import { AppBar, Toolbar, Typography } from '@mui/material';
 import { LogoIcon } from '../../icons/Logo';
-import { EnrollButton } from './components/EnrollButton';
+import { EnrolButton } from './components/EnrolButton';
 
 export const Navigation = () => {
   return (
@@ -29,7 +29,7 @@ export const Navigation = () => {
         >
           Palasio
         </Typography>
-        <EnrollButton />
+        <EnrolButton />
       </Toolbar>
     </AppBar>
   );

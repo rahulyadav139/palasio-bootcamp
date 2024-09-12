@@ -5,7 +5,7 @@ import { Learning } from '../modules/home/Learning';
 import { Roadmap } from '../modules/home/Roadmap';
 import { WhyUs } from '../modules/home/WhyUs';
 import { Offerings } from '../modules/home/Offerings';
-import { Enroll } from '../modules/home/Enroll';
+import { CTASection } from '../modules/home/CTASection';
 import { FAQs } from '../modules/home/FAQs';
 
 export default function Home() {
@@ -18,7 +18,7 @@ export default function Home() {
         <Roadmap />
         <WhyUs />
         <Offerings />
-        <Enroll />
+        <CTASection />
         <Learning />
         <FAQs />
       </Box>
