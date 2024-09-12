@@ -2,7 +2,7 @@ import { Box, Typography } from '@mui/material';
 import { Button } from '../../components/Button';
 import { WhatsApp } from '@mui/icons-material';
 import { EnrollButton } from './components/EnrollButton';
-import { WHATSAPP_URL } from '../../constant/urls';
+import { WHATSAPP_URL } from '../../constants/urls';
 
 export const Enroll = () => {
   return (
