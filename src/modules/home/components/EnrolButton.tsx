@@ -2,7 +2,7 @@ import { Note } from '@mui/icons-material';
 import { Button } from '../../../components/Button';
 import { ENROLL_FORM_URL } from '../../../constants/urls';
 
-export const EnrollButton = () => {
+export const EnrolButton = () => {
   return (
     <a href={ENROLL_FORM_URL}>
       <Button

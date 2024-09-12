@@ -1,10 +1,10 @@
 import { Box, Typography } from '@mui/material';
 import { Button } from '../../components/Button';
 import { WhatsApp } from '@mui/icons-material';
-import { EnrollButton } from './components/EnrollButton';
+import { EnrolButton } from './components/EnrolButton';
 import { WHATSAPP_URL } from '../../constants/urls';
 
-export const Enroll = () => {
+export const CTASection = () => {
   return (
     <Box
       sx={{
@@ -27,7 +27,7 @@ export const Enroll = () => {
         </Typography>
       </Box>
       <Box sx={{ display: 'flex', gap: '24px' }}>
-        <EnrollButton />
+        <EnrolButton />
         <a href={WHATSAPP_URL}>
           <Button startIcon={<WhatsApp />}>Contact</Button>
         </a>
