@@ -64,7 +64,7 @@ const Card = ({
         p: '20px',
         borderRadius: '12px',
         border: '1px solid #ccc',
-        width: 320,
+        width: { md: 320, xs: '100%' },
         position: 'relative',
         overflow: 'hidden',
         '&:before': {
