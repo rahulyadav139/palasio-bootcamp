@@ -1,0 +1,12 @@
+{
+  "rewrites": [
+    {
+      "source": "/enrol",
+      "destination": "https://5ssgu01qj91.typeform.com/to/Vjgiwyjf"
+    },
+    {
+      "source": "/(.*)",
+      "destination": "/"
+    }
+  ]
+}
