@@ -2,6 +2,7 @@ import { Box, Typography } from '@mui/material';
 import { Button } from '../../components/Button';
 import { WhatsApp } from '@mui/icons-material';
 import { EnrollButton } from './components/EnrollButton';
+import { WHATSAPP_URL } from '../../constant/urls';
 
 export const Enroll = () => {
   return (
@@ -27,7 +28,7 @@ export const Enroll = () => {
       </Box>
       <Box sx={{ display: 'flex', gap: '24px' }}>
         <EnrollButton />
-        <a href="https://wa.me/919617135659">
+        <a href={WHATSAPP_URL}>
           <Button startIcon={<WhatsApp />}>Contact</Button>
         </a>
       </Box>
